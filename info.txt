@@ -17,4 +17,13 @@ git remote add origin https://github.com/Minskoleopc/qa11P.git
 git push -u origin main (firstTime - it will ask you to authorize)
 
 
+some other made changes and send his/her code to main branch
+git pull origin main ---- (update your code base)
+
+
+
+
+
+
+
 
