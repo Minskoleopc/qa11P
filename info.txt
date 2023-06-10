@@ -1,0 +1,17 @@
+WD   ==============>   Staging ============> local R =====
+                                                        --remote repo    
+
+git --version
+join the office ....
+git clone gitUrl   -  to pull the code from remote to local repo
+
+git init  - to intialize git repo
+git status - to check which file is being tracked and changes on file
+git add . (all files will be going from working to staging)
+git commit -m "firstCommit"
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+git commit -m "firstCommit" (re run this command)
+
+
+
