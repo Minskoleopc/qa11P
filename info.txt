@@ -19,6 +19,27 @@ git push -u origin main (firstTime - it will ask you to authorize)
 
 some other made changes and send his/her code to main branch
 git pull origin main ---- (update your code base)
+git log
+git show HEAD
+
+// branch 
+
+git branch (to view all the branched - green is active)
+git branch dev (to create new branch)
+git checkout main
+// by default the branch will have main branch code only
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
