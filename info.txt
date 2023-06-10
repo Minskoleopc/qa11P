@@ -12,6 +12,9 @@ git commit -m "firstCommit"
 git config --global user.name "FIRST_NAME LAST_NAME"
 git config --global user.email "MY_NAME@example.com"
 git commit -m "firstCommit" (re run this command)
+git branch -M main
+git remote add origin https://github.com/Minskoleopc/qa11P.git
+git push -u origin main (firstTime - it will ask you to authorize)
 
 
 
